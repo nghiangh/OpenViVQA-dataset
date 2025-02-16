@@ -3,7 +3,12 @@ OpenViVQA: Open-domain Vietnamese Visual Question Answering
 
 ![examples](data_examples.png)
 
-The OpenViVQA dataset contains <b>11,000+</b> images with <b>37,000+</b> question-answer pairs which introduces the Text-based Open-ended Visual Question Answering in Vietnamese. This dataset is publicly available to research community in the VLSP 2023 - ViVRC shared task challenge. You can access the dataset as well as submit your results to evaluate on the private test set on the [Codalab](https://codalab.lisn.upsaclay.fr/competitions/15212#participate) evaluation system.
+The OpenViVQA dataset contains <b>11,000+</b> images with <b>37,000+</b> question-answer pairs which introduces the Text-based Open-ended Visual Question Answering in Vietnamese. This dataset is publicly available to research community. Please access the following urls to download and evaluate your methods on OpenViVQA dataset:
+
+- Images: https://drive.google.com/file/d/10z-92oXTvX2hIk0ds4yJOOHav5GGiEyc/view?usp=drive_link.
+- Train: https://drive.google.com/file/d/16x3h386Q_2UfCxT_3vXmPuXLScxid9L6/view?usp=drive_link.
+- Dev: https://drive.google.com/file/d/1x8nW50igqUT90LUqmL5h66LoCYkkPTZA/view?usp=drive_link.
+- Test: https://drive.google.com/file/d/10azOS9TzgQl8HrztbexlKh08pkyMb4m5/view?usp=drive_link.
 
 If you mention or use any information of our dataset, please cite to our paper:
 ```
@@ -25,4 +30,4 @@ abstract = {In recent years, visual question answering (VQA) has attracted atten
 ### Contact
 
 This repository was constructed under the instruction of the [NLP@UIT](https://nlp.uit.edu.vn/). For more information, contact the following author:
-1. Nghia Hieu Nguyen. Email: 19520178@gm.uit.edu.vn
+1. Nghia Hieu Nguyen. Email: nghiangh@uit.edu.vn
